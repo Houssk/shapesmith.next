@@ -31,7 +31,7 @@
     "hbs": "2.0.1",
     "nconf": ">= 0.6.7",
     "requirejs": "~2.1.2",
-    "underscore": "= 1.4.3",
+    "underscore": "1.10.2",
     "backbone-events": "git://github.com/bjnortier/backbone-events.git#0.9.9",
     "backbone": "= 0.9.9",
     "lathe": "= 0.4.0",
